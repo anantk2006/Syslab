@@ -1,0 +1,3 @@
+[submodule "shap-e"]
+	path = shap-e
+	url = git@github.com:anantk2006/shap-e.git
