@@ -1,3 +1,6 @@
 [submodule "shap-e"]
 	path = shap-e
 	url = git@github.com:anantk2006/shap-e.git
+[submodule "parsenet-codebase"]
+	path = parsenet-codebase
+	url = git@github.com:Hippogriff/parsenet-codebase.git
